@@ -99,7 +99,7 @@ You can replace `'your_gif.gif'` with the path to your desired GIF file, or prov
 ### 5\. Run the Application
 
 ```bash
-python main.py
+start run.bat
 ```
 
 -----
