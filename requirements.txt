@@ -1,0 +1,17 @@
+pyttsx3
+speechRecognition
+PyAudio
+fuzzywuzzy
+python-Levenshtein
+pygetwindow
+pycaw
+comtypes
+screen_brightness_control
+opencv-python
+mediapipe
+pyautogui
+pyqt6
+psutil
+google-generativeai
+pynput
+Pillow
