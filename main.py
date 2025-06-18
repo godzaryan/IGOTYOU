@@ -71,7 +71,7 @@ class VoiceAssistant:
         self.stop_voice_typing = False  # Flag to stop voice typing
         self.keyboard_listener = None  # For listening to the 'Del' key press
         self.recognizer = sr.Recognizer()
-        genai.configure(api_key="AIzaSyDIpnRmfcamvwXxdRm8vYgKwRh_ZvPfFyQ")
+        genai.configure(api_key="YOUR_API_KEY")
         self.model = genai.GenerativeModel("gemini-1.5-flash")
         self.engine = pyttsx3.init()
         self.app_instance = app_instance  # To call popup update from here
