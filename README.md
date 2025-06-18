@@ -174,12 +174,6 @@ We welcome contributions\! If you have suggestions for improvements, new feature
 
 -----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
------
-
 ## 🙏 Acknowledgements
 
   * [Google Gemini API](https://ai.google.dev/) for powerful AI capabilities.
