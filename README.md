@@ -73,7 +73,7 @@ pip install pyttsx3 speechRecognition PyAudio fuzzywuzzy python-Levenshtein pyge
 ### 1\. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/IGOTYOU.git](https://github.com/YOUR_USERNAME/IGOTYOU.git)
+git clone [https://github.com/godzaryan/IGOTYOU.git](https://github.com/godzaryan/IGOTYOU.git)
 cd IGOTYOU
 ```
 
